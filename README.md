@@ -1,4 +1,6 @@
-### Hi there 👋 welcome.
+# Matthew Smith
+![Imgur](https://i.imgur.com/5ZlAcgt.jpg)
+#### Hello and well met! 👋 Thank you for visiting my GitHub profile.
 
 <!--
 **MatthewSmithwebdesign/MatthewSmithwebdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

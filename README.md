@@ -1,19 +1,96 @@
-# Matthew Smith
-<!---![Imgur](https://i.imgur.com/5ZlAcgt.jpg)--->
-![](https://avatars.githubusercontent.com/u/26662732?s=48&v=4)
-#### Hello and well met! 👋 Thank you for visiting my GitHub profile.
+<div align="center">
 
-<!--
-**MatthewSmithwebdesign/MatthewSmithwebdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  ▓▒░   M A T T   S M I T H   ░▒▓
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
 
-Here are some ideas to get you started:
+### ⚔️ RED MAGE · LV 99 · CODE WEAVER ⚔️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://avatars.githubusercontent.com/u/26662732?s=200&v=4" width="140" alt="Matt Smith" />
+
+**「 A wandering Red Mage from San Diego 」**
+
+</div>
+
+## 📜 STATUS
+
+```
+╔═════════════════════════════════════════════════════╗
+║ MATT SMITH                           LV  99         ║
+║ CLASS: Red Mage        TITLE: Code Weaver           ║
+╠═════════════════════════════════════════════════════╣
+║ HP   ██████████████████████░░░░   999 / 999         ║
+║ MP   ██████████████████░░░░░░░░   999 / 999         ║
+║ EXP  ██████████████░░░░░░░░░░░░   NEXT LV »         ║
+╠═════════════════════════════════════════════════════╣
+║ STR » JavaScript      INT » TypeScript              ║
+║ DEX » Vue / Astro     WIS » Python / Django         ║
+║ VIT » PHP / Drupal    LUK » UI / UX Design          ║
+╚═════════════════════════════════════════════════════╝
+```
+
+## 🗨️ ABOUT
+
+```
+╭───────────────────────────────────────────────────────────╮
+│ A wandering Red Mage from San Diego. By day I craft       │
+│ web experiences and clean interfaces; by night I          │
+│ quest through side projects and teach the next            │
+│ generation of heroes to write their first lines of        │
+│ code. Care to join my party?                              │
+╰───────────────────────────────────────────────────────────╯
+```
+
+## 🎭 JOB ABILITIES
+
+| Command | Ability | Technique |
+| :---: | :---: | :--- |
+| ⚔️ Attack | **Physical** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 🔮 Black Magic | **Offensive** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| ✨ White Magic | **Restorative** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
+| 🐉 Summon | **Aeons** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white) |
+| 🎭 Mime | **Mimicry** | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| 🛡️ Defend | **Protective** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+## 📊 BATTLE RECORDS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatthewSmithwebdesign&show_icons=true&count_private=true&bg_color=0d1b2a&title_color=c9a227&text_color=9fb4cc&icon_color=c9a227&border_color=c9a227&include_all_commits=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewSmithwebdesign&layout=compact&bg_color=0d1b2a&title_color=c9a227&text_color=9fb4cc&border_color=c9a227&langs_count=8" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=MatthewSmithwebdesign&background=0d1b2a&ring=c9a227&fire=ff6b35&currStreakLabel=c9a227&sideLabels=9fb4cc&dates=9fb4cc&border=c9a227&stroke=c9a227" alt="Streak Stats" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=MatthewSmithwebdesign&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophy Case" />
+
+</div>
+
+## 🗺️ QUEST LOG
+
+> *Active quests from the world map — side stories written in code.*
+
+| 📍 Location | ⚔️ Quest | 📜 Reward |
+| :--- | :--- | :--- |
+| `lawnofthedead` | Garden tower-defense game | JavaScript |
+| `bassmaster` | Bass learning tool | TypeScript |
+| `devs-and-dragons` | Devs & Dragons app | Vue |
+| `dsarcade` | Web arcade built with my nephew | TypeScript |
+| `socalep` | Emergency planning website | Astro |
+| `26-portfolio` | Personal website (2026) | TypeScript |
+
+## 📨 SEND A TELL
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-MatthewSmithwebdesign-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatthewSmithwebdesign)
+[![Email](https://img.shields.io/badge/Email-matthewsmithwebdesign%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewsmithwebdesign@gmail.com)
+
+*"…the crystals glow. Your journey continues — thanks for stopping by."*
+
+</div>

@@ -67,7 +67,7 @@
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MatthewSmithwebdesign&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophy Case" />
+<img src="https://github-profile-trophy.vercel.app/?username=MatthewSmithwebdesign&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophy Case" />
 
 </div>
 

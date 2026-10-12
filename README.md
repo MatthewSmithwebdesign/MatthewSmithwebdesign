@@ -96,6 +96,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MatthewSmithwebdesign-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatthewSmithwebdesign)
+[![Website](https://img.shields.io/badge/Website-matthewsmithwebdesign.com-4CAF50?style=for-the-badge&logo=firefox&logoColor=white)](https://matthewsmithwebdesign.com)
 [![Email](https://img.shields.io/badge/Email-matthewsmithwebdesign%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewsmithwebdesign@gmail.com)
 
 *"…the crystals glow. Your journey continues — thanks for stopping by."*

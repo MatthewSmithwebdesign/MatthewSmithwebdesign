@@ -12,8 +12,6 @@
 
 <img src="https://avatars.githubusercontent.com/u/26662732?s=200&v=4" width="140" alt="Matt Smith" />
 
-<img src="./ff-rpg.gif" width="140" alt="FF Pixel RPG" />
-
 **「 A wandering Red Mage from San Diego 」**
 
 </div>

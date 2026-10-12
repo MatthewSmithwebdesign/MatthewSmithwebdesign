@@ -10,6 +10,8 @@
 
 <img src="https://avatars.githubusercontent.com/u/26662732?s=200&v=4" width="140" alt="Matt Smith" />
 
+<img src="./ff-rpg.gif" width="140" alt="FF Pixel RPG" />
+
 **「 A wandering Red Mage from San Diego 」**
 
 </div>
@@ -24,6 +26,7 @@
 ║ HP   ██████████████████████░░░░   999 / 999         ║
 ║ MP   ██████████████████░░░░░░░░   999 / 999         ║
 ║ EXP  ██████████████░░░░░░░░░░░░   NEXT LV »         ║
+║ LB   ████████████████████████░░   LIMIT BREAK 90%   ║
 ╠═════════════════════════════════════════════════════╣
 ║ STR » JavaScript      INT » TypeScript              ║
 ║ DEX » Vue / Astro     WIS » Python / Django         ║
@@ -43,6 +46,8 @@
 ╰───────────────────────────────────────────────────────────╯
 ```
 
+> *"But as many times as we've fallen down, we've learned how to pick ourselves up and carry on... We take each other's hand, share in each other's courage, follow in each other's footsteps, and turn sorrow into strength."* — **The Crystal Exarch**
+
 ## 🎭 JOB ABILITIES
 
 | Command | Ability | Technique |
@@ -52,6 +57,7 @@
 | ✨ White Magic | **Restorative** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
 | 🐉 Summon | **Aeons** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white) |
 | 🎭 Mime | **Mimicry** | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| 💫 **LIMIT BREAK** | **CRYSTAL AEGIS** | *"Shatter the ice that imprisons the heart. Awaken the hero within."* |
 | 🛡️ Defend | **Protective** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ## 📊 BATTLE RECORDS

@@ -8,7 +8,7 @@
 
 ### ⚔️ RED MAGE · LV 99 · CODE WEAVER ⚔️
 
-<img src="https://avatars.githubusercontent.com/u/26662732?s=200&v=4" width="140" alt="Matt Smith" />
+<img src="https://static.wikia.nocookie.net/finalfantasy/images/0/06/FFRK_Red_Mage_III_Artwork.png/revision/latest?cb=20191231151746" width="140" alt="Red Mage" />
 
 <img src="./ff-rpg.gif" width="140" alt="FF Pixel RPG" />
 

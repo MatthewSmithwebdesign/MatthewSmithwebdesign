@@ -8,7 +8,7 @@
 
 ### ⚔️ RED MAGE · LV 99 · CODE WEAVER ⚔️
 
-<img src="./red-mage-pixel.gif" width="140" alt="Red Mage Pixel" />
+<img src="./red-mage.gif" width="140" alt="Red Mage" />
 
 <img src="https://avatars.githubusercontent.com/u/26662732?s=200&v=4" width="140" alt="Matt Smith" />
 
